@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Samir</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loan_amount">Loan Amount</string>
+    <string name="interest_rate">Interest Rate</string>
+    <string name="term">Term</string>
+    <string name="purpose">Purpose</string>
+    <string name="home_fragment_label">Home</string>
+    <string name="detail_fragment_label">Detail</string>
+    <string name="loan_term_format">%1$d months</string>
+    <string name="document_fragment_label">Document</string>
+    <string name="empty_loans">No loans available</string>
+    <string name="by_term_low">Sort by term (low to high)</string>
+    <string name="by_term_high">Sort by term (high to low)</string>
+    <string name="by_risk_high">Sort by risk rating (high to low)</string>
+    <string name="by_risk_low">Sort by risk rating (low to high)</string>
+    <string name="image_content_description">Image description</string>
+    <string name="text_apply">Apply</string>
+    <string name="text_sort_by">Sort By</string>
+    <string name="text_borrower_information">Borrower Information</string>
+    <string name="text_name">Name</string>
+    <string name="text_email">Email</string>
+    <string name="text_credit_score">Credit Score</string>
+    <string name="text_collateral_information">Collateral Information</string>
+    <string name="text_type">Type</string>
+    <string name="text_value">Value</string>
+    <string name="text_repayment_schedule">Repayment Schedule</string>
+    <string name="text_loan_documents">Loan Documents</string>
+    <string name="text_no_documents_available">No documents available</string>
+    <string name="text_sort">Sort</string>
+    <string name="error_loans">Something went wrong, please swipe refresh</string>
+</resources>
